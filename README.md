@@ -1,4 +1,4 @@
-# Seekr — Workplace Knowledge Radar
+# Company Hub — Workplace Knowledge Radar
 
 Seekr helps you find the right co-worker for the job. Describe what you need in plain English and the app uses Claude AI to rank the best-matching employees from your organisation, with a short explanation for each match.
 
